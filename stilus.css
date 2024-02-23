@@ -1,0 +1,12 @@
+body{
+    width: 80%;
+    max-width: 800px;
+    margin:auto;
+}
+#kartyaContainer{
+    display: flex;
+    border: 1px black solid;
+}
+.kartya{
+    flex-direction: 0 0 100%;
+}
